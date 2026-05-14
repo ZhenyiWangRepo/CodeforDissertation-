@@ -1,0 +1,6 @@
+<session>
+       <age type="integer" unit="year" value="31"></age>
+	   <gender type="radio" value="male"></gender>
+       <height type="double" unit="m" value="1.78"></height>
+	   <mass type="double" unit="kg" value="92.40"></mass>
+</session>

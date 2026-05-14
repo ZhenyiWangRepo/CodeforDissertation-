@@ -1,0 +1,6 @@
+<subject>
+       <age type="integer" unit="year" value="24"></age>
+	   <gender type="radio" value="male"></gender>
+       <height type="double" unit="m" value="1.79"></height>
+	   <mass type="double" unit="kg" value="78.71"></mass>
+</subject>
